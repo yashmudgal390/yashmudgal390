@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Yash Mudgal 👋</h1>
 
-<!--
-**yashmudgal390/yashmudgal390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAC&center=true&vCenter=true&width=650&lines=Crafting+the+Web+with+Logic+and+Design.;DSA+Practitioner+%7C+Future-Tech+Explorer.;buil+systems+that%2C+connect%2C+and+evolve." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 👨‍💻 About Me
+
+Passion for building impactful technology through code.  
+I bridge design and logic through full-stack web development, while sharpening my foundations in Data Structures & Algorithms.  
+
+Currently, I'm diving deep into Web3, AI, and Robotics — building systems that are decentralized, intelligent, and emotionally aware.
+
+---
+
+### 🌟 What Drives Me
+- 🔎 **DSA in Java** – Strengthening my problem-solving mindset
+- 🌐 **Web Development** – From pixel-perfect UIs to dynamic logic
+- 🪙 **Web3 + Smart Contracts** – Building decentralized experiences
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,solidity,git,github,figma,linux,vscode&theme=light" />
+</p>
