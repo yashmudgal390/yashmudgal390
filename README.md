@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yash Mudgal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAC&center=true&vCenter=true&width=650&lines=Crafting+the+Web+with+Logic+and+Design.;DSA+Practitioner+%7C+Future-Tech+Explorer.;buil+systems+that%2C+connect%2C+and+evolve." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAC&center=true&vCenter=true&width=650&lines=Crafting+the+Web+with+Logic+and+Design.;DSA+Practitioner+%7C+Future-Tech+Explorer.;buil+systems+that+connect+and+evolve." alt="Typing SVG" />
 </p>
 
 
