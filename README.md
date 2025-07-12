@@ -29,3 +29,25 @@ Currently, I'm diving deep into Web3, AI, and Robotics — building systems that
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,solidity,git,github,figma,linux,vscode&theme=light" />
 </p>
+
+---
+
+### 📬 Reach Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-mudgal-86a99234a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:yashmudgal390@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://x.com/yash_mudga61245" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
+  </a>
+
+  <a href="https://github.com/yashmudgal390" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
