@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yash Mudgal <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />h1>
+<h1 align="center">Hi there, I'm Yash Mudgal <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25"/><h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAC&center=true&vCenter=true&width=650&lines=Crafting+the+Web+with+Logic+and+Design.;DSA+Practitioner+%7C+Future-Tech+Explorer.;I+buil+systems+that+connect+and+evolve." alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> About Me
 
 Passion for building impactful technology through code.  
 I bridge design and logic through full-stack web development, while sharpening my foundations in Data Structures & Algorithms.  
@@ -34,7 +34,7 @@ Currently, I'm diving deep into Web3, AI, and Robotics — building systems that
 
 <hr>
 
-<h3 align="center">📬 Reach Me</h3>
+<h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Light%20Skin%20Tone.png" alt="Detective Light Skin Tone" width="25" height="25" /> Reach Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-mudgal-86a99234a/" target="_blank" style="text-decoration:none;">
