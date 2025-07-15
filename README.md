@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yash Mudgal 👋</h1>
+<h1 align="center">Hi there, I'm Yash Mudgal <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAC&center=true&vCenter=true&width=650&lines=Crafting+the+Web+with+Logic+and+Design.;DSA+Practitioner+%7C+Future-Tech+Explorer.;I+buil+systems+that+connect+and+evolve." alt="Typing SVG" />
@@ -24,7 +24,7 @@ Currently, I'm diving deep into Web3, AI, and Robotics — building systems that
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🧩 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,solidity,git,github,figma,linux,vscode&theme=light" />
