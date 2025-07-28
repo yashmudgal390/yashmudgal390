@@ -27,7 +27,7 @@ Currently, I'm diving deep into Web3, AI, and Robotics — building systems that
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,solidity,git,github,figma,linux,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,solidity,git,github,figma,linux,vscode&theme=light" />
 </p>
 
 ---
