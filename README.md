@@ -4,51 +4,98 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Engineering;Solving+Problems+with+Java+%2B+DSA;Building+clean%2C+scalable+web+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=700&lines=AI+Engineering+Explorer;Full-Stack+Developer;DSA+Problem+Solver;Building+Scalable+and+Intelligent+Systems" />
 </p>
 
 ---
 
-### 👤 About Me
-I bridge the gap between design and logic. I specialize in building impactful web applications and am currently focused on **AI Engineering** and high-performance **Data Structures & Algorithms**.
+## 🧠 About Me
 
-* 🚀 **Current Focus:** Deepening my expertise in AI and modern web architectures.
-* 🧠 **Logic:** Strengthening my problem-solving foundation with Java and DSA.
-* ⚡ **Goal:** Building systems that are intelligent, efficient, and user-centric.
+I’m a developer focused on building **scalable, intelligent systems** by combining strong problem-solving with modern technologies.
+
+💡 I bridge the gap between **logic (DSA)** and **real-world applications (Web + AI)**  
+
+🚀 Currently exploring **AI integration in full-stack applications**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## ⚡ Current Focus
 
-#### **🌐 Web Architecture**
-| **Category** | **Technologies** |
+- 🧠 Data Structures & Algorithms (Java)  
+- 🌐 Full-Stack Development (React + Node.js)  
+- 🤖 AI Engineering (Python + ML Basics)  
+- 🚀 Building real-world projects  
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### 🌐 Web Architecture
+| Category | Technologies |
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,supabase&theme=dark" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,supabase&theme=dark" height="40" /> |
 
-#### **🤖 AI & Engineering Core**
+---
+
+### 🤖 AI & Engineering Core
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java&theme=dark" height="40" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" />
 </p>
 
-#### **⚙️ Development Ecosystem**
+---
+
+### ⚙️ Development Ecosystem
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="40" />
 </p>
 
 ---
 
-### 💻 System Pulse
+## 🧠 AI Learning Progress
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmudgal390&bg_color=ffffff&color=707070&line=333333&point=000000&area=true&hide_border=true" width="100%" />
+
+DSA (Java)  
+<img src="https://progress-bar.dev/85/?scale=100&width=500&color=333333" />
+
+Full-Stack Development  
+<img src="https://progress-bar.dev/75/?scale=100&width=500&color=333333" />
+
+AI / Machine Learning  
+<img src="https://progress-bar.dev/55/?scale=100&width=500&color=333333" />
+
+System Design  
+<img src="https://progress-bar.dev/60/?scale=100&width=500&color=333333" />
+
 </p>
 
 ---
 
-### 🤝 Let's Connect
+## 📊 GitHub Insights
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-mudgal-86a99234a/" target="_blank">
-    <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=yashmudgal390&show_icons=true&theme=default&hide_border=true&title_color=333333&icon_color=333333"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashmudgal390&theme=default&hide_border=true&ring=333333&fire=333333"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmudgal390&bg_color=ffffff&color=707070&line=333333&point=000000&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+```text
+🤖 AI Chatbot System          → LLM + Context + Memory
+🛒 E-Commerce Platform       → Full Stack (React + Node)
+🚦 AI Traffic Management     → Smart system (Vision + IoT concept)
