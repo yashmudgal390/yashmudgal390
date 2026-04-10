@@ -12,27 +12,31 @@
 ### 👤 About Me
 I bridge the gap between design and logic. I specialize in building impactful web applications and am currently focused on **AI Engineering** and high-performance **Data Structures & Algorithms**.
 
-* 🔭 **Current Focus:** Deepening my expertise in AI and modern web architectures.
+* 🚀 **Current Focus:** Deepening my expertise in AI and modern web architectures.
+* 🧠 **Logic:** Strengthening my problem-solving foundation with Java and DSA.
 * ⚡ **Goal:** Building systems that are intelligent, efficient, and user-centric.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="25" /> Tech Stack & Tools
+---
 
-### 🌐 Frontend & Backend
+### 🛠️ Tech Stack & Tools
+
+#### **🌐 Web Architecture**
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,supabase&theme=dark" height="40" /> |
+
+#### **🤖 AI & Engineering Core**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,supabase,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" height="40" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" height="28" />
 </p>
 
-### 🤖 AI & Data Science
+#### **⚙️ Development Ecosystem**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,active-directory&theme=dark" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-</p>
-
-### 🛠 Tools & OS
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="40" />
 </p>
 
 ---
@@ -46,17 +50,5 @@ I bridge the gap between design and logic. I specialize in building impactful we
 
 ### 🤝 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-mudgal-86a99234a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yashmudgal390@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/yash_mudga61245">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=footer" width="80%"/>
-</p>
+  <a href="https://www.linkedin.com/in/yash-mudgal-86a99234a/" target="_blank">
+    <img src="
