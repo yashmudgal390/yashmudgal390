@@ -28,51 +28,30 @@ I’m a developer focused on building **scalable, intelligent systems** by combi
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
-### 🌐 Web Architecture
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,supabase&theme=dark" height="40" /> |
-
----
-
-### 🤖 AI & Engineering Core
+### 🤖 AI & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
 </p>
 
----
-
-### ⚙️ Development Ecosystem
+### 💻 Full-Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,figma&theme=dark" />
 </p>
 
----
+### 🗄 Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase&theme=dark" />
+</p>
 
-## 🧠 AI Learning Progress
-
-<p align="center">
-
-DSA (Java)  
-<img src="https://progress-bar.dev/85/?scale=100&width=500&color=333333" />
-
-Full-Stack Development  
-<img src="https://progress-bar.dev/75/?scale=100&width=500&color=333333" />
-
-AI / Machine Learning  
-<img src="https://progress-bar.dev/55/?scale=100&width=500&color=333333" />
-
-System Design  
-<img src="https://progress-bar.dev/60/?scale=100&width=500&color=333333" />
-
+### ⚙️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
@@ -93,9 +72,3 @@ System Design
 
 ---
 
-## 🚀 Featured Projects
-
-```text
-🤖 AI Chatbot System          → LLM + Context + Memory
-🛒 E-Commerce Platform       → Full Stack (React + Node)
-🚦 AI Traffic Management     → Smart system (Vision + IoT concept)
