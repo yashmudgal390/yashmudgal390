@@ -56,37 +56,32 @@ I’m a developer focused on building **scalable, intelligent systems** by combi
 
 ---
 
-<hr>
+---
 
-<h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Light%20Skin%20Tone.png" alt="Detective Light Skin Tone" width="25" height="25" /> Reach Me</h3>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Light%20Skin%20Tone.png" width="28" /> 
+  Connect with the Developer
+</h3>
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/yash-mudgal-86a99234a/" target="_blank" style="text-decoration:none;">
-
-    <img height="35" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-  </a>  <a href="mailto:yashmudgal390@gmail.com" target="_blank" style="text-decoration:none;">
-
-    <img height="35" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-
+  <a href="https://www.linkedin.com/in/yash-mudgal-86a99234a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-
-  <a href="https://x.com/yash_mudga61245" target="_blank" style="text-decoration:none;">
-
-    <img height="35" src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X" />
-
+  &nbsp;
+  <a href="mailto:yashmudgal390@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-
-  <a href="https://github.com/yashmudgal390" target="_blank" style="text-decoration:none;">
-
-    <img height="35" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
+  &nbsp;
+  <a href="https://x.com/yash_mudga61245" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" />
   </a>
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmudgal390&bg_color=ffffff&color=707070&line=333333&point=000000&area=true&hide_border=true"/>
+  &nbsp;
+  <a href="https://github.com/yashmudgal390" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=footer" width="60%"/>
+</p>****
 
