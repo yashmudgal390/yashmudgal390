@@ -15,15 +15,25 @@ I bridge the gap between design and logic. I specialize in building impactful we
 * 🔭 **Current Focus:** Deepening my expertise in AI and modern web architectures.
 * ⚡ **Goal:** Building systems that are intelligent, efficient, and user-centric.
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="25" /> Tech Stack & Tools
 
-### 🛠️ Tech Stack
+### 🌐 Frontend & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,supabase,figma&theme=dark" />
+</p>
 
-**Programming & Data Science** `Java` `Python` `NumPy` `Pandas` `Matplotlib`
+### 🤖 AI & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,active-directory&theme=dark" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+</p>
 
-**Web Development** `JavaScript` `React.js` `Node.js` `Supabase` `HTML5` `CSS3`
-
-**Tools & Environment** `Git` `GitHub` `VS Code` `Linux` `Figma`
+### 🛠 Tools & OS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
 
 ---
 
