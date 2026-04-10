@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=700&lines=AI+Engineering+Explorer;Full-Stack+Developer;DSA+Problem+Solver;Building+Scalable+and+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=D6D6D6&center=true&vCenter=true&width=700&lines=AI+Engineering+Explorer;Full-Stack+Developer;DSA+Problem+Solver;Building+Scalable+and+Intelligent+Systems" />
 </p>
 
 ---
@@ -56,11 +56,11 @@ I’m a developer focused on building **scalable, intelligent systems** by combi
 
 ---
 
----
+
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Light%20Skin%20Tone.png" width="28" /> 
-  Connect with the Developer
+  Connect
 </h3>
 
 <p align="center">
@@ -83,5 +83,5 @@ I’m a developer focused on building **scalable, intelligent systems** by combi
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=footer" width="60%"/>
-</p>****
+</p>
 
